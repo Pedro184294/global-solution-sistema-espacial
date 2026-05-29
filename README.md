@@ -44,15 +44,25 @@ Criação da interface `Sensor`.
 ## Estrutura do Projeto
 
 src/
+
 └── br/com/espacial/
+
     ├── ComponenteEspacial.java
+    
     ├── Sensor.java
+    
     ├── SensorTemperatura.java
+    
     ├── SensorPressao.java
+    
     ├── DadosMissao.java
+    
     ├── SistemaPropulsao.java
+    
     ├── PropulsaoQuimica.java
+    
     ├── Satelite.java
+    
     └── SistemaMonitoramento.java
 
 
@@ -96,9 +106,9 @@ Inserir:
 
 <img width="320" height="372" alt="image" src="https://github.com/user-attachments/assets/f63dfb00-f338-4684-84bd-f94008b36de7" />
 
-print da estrutura do projeto
-print do GitHub com os arquivos enviados
-print do console executando o sistema
+
+<img width="1352" height="628" alt="image" src="https://github.com/user-attachments/assets/d9e16b25-04d7-4ad5-a967-5ecbd2a1d786" />
+
 
 # Conclusão
 
