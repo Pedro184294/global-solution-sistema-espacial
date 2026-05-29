@@ -101,7 +101,6 @@ Temperatura: 25.0
 Pressão: 1.5
 Evidências do Projeto
 
-Inserir:
 
 
 <img width="320" height="372" alt="image" src="https://github.com/user-attachments/assets/f63dfb00-f338-4684-84bd-f94008b36de7" />
